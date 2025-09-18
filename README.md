@@ -4,9 +4,9 @@ It is designed to teach users about important technological inventions and histo
 
 ---
 
-## ✨ Features
+✨ Features
 
-### 🖼️ Educational Screen (Tkinter)
+🖼️ Educational Screen (Tkinter)
 
 * Displays images of important inventions (car, radio, airplane, phone, etc.).
 * Each invention has a **button** — clicking it opens a popup window with:
@@ -14,7 +14,7 @@ It is designed to teach users about important technological inventions and histo
   * A fact about the invention.
   * An image loaded via **Pillow (PIL)**.
 
-### 🎮 Quiz Game (Pygame)
+🎮 Quiz Game (Pygame)
 
 * Starts when the **"Start Quiz"** button is pressed.
 * Player controls a **sprite character** with arrow keys.
@@ -27,7 +27,7 @@ It is designed to teach users about important technological inventions and histo
 
 ---
 
-## ▶️ How to Run
+▶️ How to Run
 
 Run the script in your terminal or IDE:
 
@@ -41,7 +41,7 @@ python main.py
 
 ---
 
-## 🎯 Gameplay Controls
+🎯 Gameplay Controls
 
 * **Arrow Keys** → Move player.
 * **SPACE** → Select an answer when colliding with an option.
