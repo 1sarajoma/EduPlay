@@ -31,9 +31,7 @@ It is designed to teach users about important technological inventions and histo
 
 Run the script in your terminal or IDE:
 
-```bash
 python main.py
-```
 
 * On launch, you’ll see the **educational screen** with images and buttons.
 * Click invention buttons to learn facts.
